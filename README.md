@@ -108,9 +108,9 @@ KOWZ4870165:2374(11%)
 
 **Significado:**
 
-*OIIZ2030046 possui CNPJ divergente.
-*KOWZ4870165 apresenta uma diferença de peso de 11%, sendo considerada significativa.
-*TRYJ3563622 e UGPJ9389044 estão dentro dos limites aceitáveis e não aparecem na saída.
+* OIIZ2030046 possui CNPJ divergente.
+* KOWZ4870165 apresenta uma diferença de peso de 11%, sendo considerada significativa.
+* TRYJ3563622 e UGPJ9389044 estão dentro dos limites aceitáveis e não aparecem na saída.
 
 ---
 
