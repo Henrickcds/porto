@@ -114,7 +114,7 @@ KOWZ4870165:2374(11%)
 
 ---
 
-##🧮 Estruturas e Algoritmos Utilizados
+## 🧮 Estruturas e Algoritmos Utilizados
 
 * **Tabela Hash** para busca eficiente de contêineres por código.
 * **qsort** para ordenação de discrepâncias de CNPJ pela ordem de registro.
@@ -123,7 +123,7 @@ Cálculo percentual de diferença de peso com arredondamento via **round()**.
 
 ---
 
-##🧠 Conceitos Envolvidos
+## 🧠 Conceitos Envolvidos
 
 * Estruturas de dados: **Tabela Hash**, **Listas Ligadas**
 * Algoritmos de ordenação: **Merge Sort**, **Quick Sort**
@@ -134,7 +134,7 @@ Cálculo percentual de diferença de peso com arredondamento via **round()**.
 
 ---
 
-##📊 Complexidade
+## 📊 Complexidade
 
 * Inserção e busca na hash: **O(1)** em média
 * Ordenação de discrepâncias:
@@ -143,7 +143,7 @@ Cálculo percentual de diferença de peso com arredondamento via **round()**.
 
 ---
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 
 **Henrick Cardoso**
 
